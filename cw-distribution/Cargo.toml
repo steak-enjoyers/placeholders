@@ -1,0 +1,5 @@
+[package]
+name = "cw-distribution"
+version = "0.0.0"
+authors = ["Larry Engineer <gm@larry.engineer>"]
+edition = "2021"
